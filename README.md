@@ -13,12 +13,18 @@ This project uses:
 - [tapioca24/p5.capture](https://github.com/tapioca24/p5.capture)
 - [patriciogonzalezvivo/GLSL-Noise.md](https://gist.github.com/patriciogonzalezvivo/670c22f3966e662d2f83)
 
-## Running locally
+## Running
 
 For some reason this works better on chromium.
 On Firefox i only got around 7-10 FPS while on chromium i got around 50-60 FPS.
 
 ¯\\_(ツ)_/¯
+
+### Running online
+
+Paste the contents of [sketch.js](./sketch.js) into the [web p5.js editor](https://editor.p5js.org/).
+
+### Running locally
 
 ```sh
 python3 -m http.server 8080
