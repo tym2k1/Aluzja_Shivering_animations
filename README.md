@@ -18,7 +18,7 @@ This project uses:
 For some reason this works better on chromium.
 On Firefox i only got around 7-10 FPS while on chromium i got around 50-60 FPS.
 
-¯\_(ツ)_/¯
+¯\\_(ツ)_/¯
 
 ```sh
 python3 -m http.server 8080
